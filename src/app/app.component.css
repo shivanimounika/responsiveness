@@ -1,0 +1,18 @@
+.page-footer{
+    background-color:#34373D;
+    color: white;
+}
+.copyright{
+    background-color: white;
+    color: black;
+}
+.certificates{
+    text-align: center;
+}
+/* @media screen and (min-width: 480px) {
+    .certificates {
+      background-color:#ffff;
+      text-align: center;
+    }
+  } */
+  
